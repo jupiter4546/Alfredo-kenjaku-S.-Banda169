@@ -1,8 +1,4 @@
-# almario
-## my favorite foods 
-- adobo
-- ginataang aso
-+ adobong aso
-* ginataang pawikan
-#- banda masarap
+![Viral ni alfred banda](https://www.pinterest.com/sajanrai19k/funny-gorilla/)
+#ely ely ely almazano
+
 
