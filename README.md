@@ -16,7 +16,7 @@
 - grilled beef
 - eggs
 - carbs(rice,bread)
-- fruits and veggies()
+- fruits and veggies(avocado,banana, broccoli)
 
 <details>
 <summarry><b>View motivationals qoutes</b></summary>
