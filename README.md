@@ -1,4 +1,4 @@
-# Charles, Ely, Alfredo
+# Charles Almario 
 ## IT1C
 
 ## 📌Gym Sched 🦾
